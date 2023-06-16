@@ -1,0 +1,10 @@
+Apellido    Nombre      ID      Periodo de ingreso    Semestre Actual    Alternancia
+
+Mesa        Santiago    1234    2110                  1                  NO
+Paez        Andres      4321    2030                  2                  NO
+Rojas       Maria       5678    1710                  7                  SI
+Guerra      Camila      8765    1930                  4                  SI
+Sanchez     Sara        9012    2030                  2                  NO
+Gonzalez    Catalina    2109    1730                  6                  SI
+Mendez      Sebastian   3456    2010                  3                  NO
+Cuervo      Cesar       6543    1630                  8                  SI

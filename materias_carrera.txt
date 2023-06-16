@@ -1,0 +1,22 @@
+     NOMBRE			 ID	CREDITOS   HORAS  PRE-REQUISITO	  DEPARTAMENTO    SEMESTRE
+
+1.  matematicas 1                1683  	  3	     9		0	  matematicas     1
+2.  herramientas matematicas     1684  	  3	     9		0	  matematicas     1
+3.  laboratorio de senales       1802  	  2	     6		0	  electronica     1
+4.  intro Electronica            1686  	  3	     9		0	  electronica     1
+5.  fisica 1                     1342  	  3	     9		0	  fisica          1
+6.  matematicas 2                2888  	  3	     9		1683	  matematicas     2
+7.  senales continuas            2893  	  3	     9		2802	  electronica     2
+8.  fundamentos de circuitos     2894  	  4	     12		1686	  electronica     2
+9.  fisica 2                     2931  	  4	     12		1342	  fisica          2
+10. matematicas 3                3889  	  3	     9		2888	  matematicas     3
+11. fisica 3                     3932  	  4	     12		2931	  fisica          3
+12. senales discretas            3583  	  3	     9		2893	  electronica     3
+13. sistemas dinamicos           3584  	  4	     12		2894	  electronica     3
+14. dispro                       3581  	  4	     12		1686	  electronica     3
+15. matematicas 4                4890  	  3	     9		3889	  matematicas     4
+16. inteligencia artificial      6680  	  3	     9		0	  sistemas        6
+17. diseno en fpga               8692  	  3	     9		0	  electronica     8
+18. seguridad en redes           8702  	  3	     9		0	  electronica     8
+19. herramientas de robotica     8942  	  3	     9		0	  electronica     8
+20. IOT                          8685  	  3	     9		0	  sistemas        8
